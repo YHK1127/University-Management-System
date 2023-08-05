@@ -1,0 +1,152 @@
+#e{
+    
+    margin-left: 50px;
+    display: inline;
+    color: blue;
+    
+}
+#y{
+    margin-left: 50px;
+    color:black;
+    margin-top: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#z{
+    margin-left: 30px;
+    color: black;
+    margin-left: 50px;
+    margin-top: -50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#u{
+    margin-left: 30px;
+    color: black;
+    margin-top: -50px;
+    margin-left: 50px;
+    font-family:'Times New Roman', Times, serif;
+}
+.f{
+margin-left: 600px;
+font-size: large;
+color:black;
+text-decoration-line: none;
+padding-right: 15px;
+}
+nav{
+    margin-top: 900px;
+    position: relative;
+}
+.g,.h,.i,.m{
+    font-size:large;
+color:black;
+padding-left: 3px;
+padding-right: 3px;
+text-decoration-line: none;
+padding-left: 15px;
+padding-right: 15px;
+}
+.f:hover{
+    color: brown;
+}
+.g:hover{
+    color: brown;
+}
+.h:hover{
+    color: brown;
+}
+.i:hover{
+    color: brown;
+}
+.m:hover{
+    color: brown;
+}
+.hi{
+    
+    margin-top: -100px;
+    
+
+}
+#b{
+    text-align: center;
+    margin-top: 600px;
+}
+#n{
+    text-align: center;
+    margin-top: -30px;
+    color: tomato;
+}
+#v{
+    background-color: tomato;
+    color: white;
+    padding: 3px;
+}
+#c{
+    text-align: center;
+    margin-top:200px;
+}
+#p{
+    text-align: center;
+    margin-top: -40px;
+    color: tomato;
+}
+#q{
+    margin-top: -40px;
+}
+.o,.txt{
+    color:darkmagenta;
+    
+}
+#q{
+    margin-top: -300px;
+}
+#r{
+    margin-top: 650px;
+}
+#d{
+    margin-top: 150px;
+    text-align: center;
+}
+#r{
+    text-align: center;
+    margin-top: -40px;
+    color: tomato;
+}
+#j{
+    color: white;
+    background-color: brown;
+    padding: 3px;
+}
+
+#s{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#l{
+    height: 20px;
+    background-color: black;
+    color:black;
+}
+#h{
+    color: darkmagenta;
+}
+#cd{
+    margin-top: 50px;
+}
+
+th{
+    text-align: left;
+}
+.fa-user,.fa-map-marker-alt,.fa-envelope{
+    padding-left: 20px;
+}
+.hello{
+    margin-top: 250px;
+    background-color: yellow;
+}
+.nav{
+    background-color: blanchedalmond;
+    margin-top: -30px;
+}
+#s{
+    color: white;
+}
